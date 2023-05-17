@@ -1,16 +1,6 @@
 # mb1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Audio Player
+# output
+![Screenshot_20230517-125234](https://github.com/smit11001/audioplayer/assets/113500028/4b5079ec-f4b8-43a1-abf2-62403dee59ac)
+![Screenshot_20230517-125342](https://github.com/smit11001/audioplayer/assets/113500028/459c1af7-a5af-4b67-bdf6-6757ec0d81e6)
